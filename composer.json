@@ -1,0 +1,11 @@
+{
+  "name": "d3/oxid-cookieconsent-replacement",
+  "description": "Empty replacement for the OXID Cookie Management powered by usercentrics if it is not used and should be removed from the installation.",
+  "require": {
+    "oxid-esales/oxideshop-metapackage-ce": "^6.0"
+  },
+  "replace": {
+    "oxid-professional-services/usercentrics": "*"
+  },
+  "license": "GPL-3.0-or-later"
+}
